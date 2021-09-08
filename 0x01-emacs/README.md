@@ -1,0 +1,1 @@
+This is a project file where I will learn how to use emacs within my terminal.
